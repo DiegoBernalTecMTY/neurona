@@ -1,0 +1,6 @@
+div {
+    background-image: url('./background.png'); /* Path to the image */
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+}
